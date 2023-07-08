@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/Lvls/Lvl_Test.umap",
+				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/Mat_RedPlatform.uasset",
+				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/BP_Platform.uasset",
+				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/BP_PlayerController.uasset",
+				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/BP_GameMode.uasset",
+				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/platform_rectangle.uasset",
+				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/BP_Protag.uasset",
+				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/WBP_ButtonWidget.uasset",
+				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/BP_BounceAwayActor.uasset",
+				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/WBP_Controls.uasset",
+				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/WBP_ResetTip.uasset"
+			]
+		}
+	]
+}
