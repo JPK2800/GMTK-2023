@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Nick/Documents/GitHub/GMTK-2023/GMTK_2023/Content/hero.uasset",
+				"C:/Users/Nick/Documents/GitHub/GMTK-2023/GMTK_2023/Content/guy_MAT.uasset",
+				"C:/Users/Nick/Documents/GitHub/GMTK-2023/GMTK_2023/Content/guyTxt.uasset",
+				"C:/Users/Nick/Documents/GitHub/GMTK-2023/GMTK_2023/Content/hero_Skeleton.uasset",
+				"C:/Users/Nick/Documents/GitHub/GMTK-2023/GMTK_2023/Content/hero_PhysicsAsset.uasset",
 				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/Lvls/Lvl_Test.umap",
 				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/Mat_RedPlatform.uasset",
 				"C:/Users/jpkmy/OneDrive/Documents/Unreal Projects/GMTK_2023/Content/BP_Platform.uasset",
