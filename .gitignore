@@ -86,3 +86,12 @@ GMTK_2023/Saved/Config/WindowsEditor/Engine.ini
 GMTK_2023/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 GMTK_2023/Saved/AutoScreenshot.png
 GMTK_2023/Saved/Autosaves/PackageRestoreData.json
+Package2/Windows/Manifest_UFSFiles_Win64.txt
+Package2/Windows/Manifest_NonUFSFiles_Win64.txt
+Package2/Windows/GMTK_2023/Content/Paks/GMTK_2023-Windows.utoc
+Package2/Windows/GMTK_2023/Content/Paks/GMTK_2023-Windows.ucas
+Package2/Windows/GMTK_2023/Content/Paks/GMTK_2023-Windows.pak
+Package2/Windows/GMTK_2023/Content/Paks/global.utoc
+Package2/Windows/GMTK_2023/Content/Paks/global.ucas
+Package2/Windows/Engine/Binaries/Win64/tbb.pdb
+Package2/Platformed.zip

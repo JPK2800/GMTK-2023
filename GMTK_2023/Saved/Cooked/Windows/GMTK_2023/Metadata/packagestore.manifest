@@ -1673,10 +1673,6 @@
 			"ChunkId": "81a862d1f3a1ee4a00000001"
 		},
 		{
-			"Path": "GMTK_2023/Content/UI/WBP_Start_BackButton.uasset",
-			"ChunkId": "be1d9ea0ab0cc65a00000001"
-		},
-		{
 			"Path": "GMTK_2023/Content/UI/WBP_Start_StartButton.uasset",
 			"ChunkId": "696bd812ffdb54eb00000001"
 		},
@@ -3758,12 +3754,6 @@
 			"Name": "/Game/UI/WBP_ResetTip",
 			"ExportBundleChunkIds": [
 				"81a862d1f3a1ee4a00000001"
-			]
-		},
-		{
-			"Name": "/Game/UI/WBP_Start_BackButton",
-			"ExportBundleChunkIds": [
-				"be1d9ea0ab0cc65a00000001"
 			]
 		},
 		{
